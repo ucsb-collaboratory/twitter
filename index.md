@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Twitter
 
-You can use the [editor on GitHub](https://github.com/ucsb-collaboratory/twitter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##### Table of Contents  
+[twarc](#twarc)  
+[v2](#v2)   
+[not mapping twitter](#nomaps)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This page is an index (parent repo) for all of our current projects concerning Twitter and relevant information. Click on the headers to be take to a short summary about the corresponding topic. Or, if you'd like to be taken straight to a project's repo, click the repo link under the header. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a name="twarc"/>  
 
-```markdown
-Syntax highlighted code block
+## [twarc](twarc.md)   
+- Currently only covers v1.1 and twarc (ie not v2 and twarc2)
+- twarc [repo](https://github.com/ucsb-collaboratory/twarc)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<a name="v2"/>    
+ 
+## [v2](v2.md)
+- Summary of the launch of Twitters new v2 API and its benefits
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<a name="nomaps"/>   
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ucsb-collaboratory/twitter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [not mapping twitter](not_mapping_twitter.md)
+- not_mapping_twitter [repo](https://github.com/ucsb-collaboratory/not_mapping_twitter)
