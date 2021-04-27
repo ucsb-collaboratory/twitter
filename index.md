@@ -10,18 +10,18 @@ This page is an index (parent repo) for all of our current projects concerning T
 
 <a name="twarc"/>  
 
-## [twarc](main/twarc.md)   
+## [twarc](twarc.md)   
 - Currently only covers v1.1 and twarc (ie not v2 and twarc2)
 - twarc [repo](https://github.com/ucsb-collaboratory/twarc)
 
 
 <a name="v2"/>    
  
-## [v2](main/v2.md)
+## [v2](v2.md)
 - Summary of the launch of Twitters new v2 API and its benefits
 
 
 <a name="nomaps"/>   
 
-## [not mapping twitter](main/not_mapping_twitter.md)
+## [not mapping twitter](not_mapping_twitter.md)
 - not_mapping_twitter [repo](https://github.com/ucsb-collaboratory/not_mapping_twitter)
