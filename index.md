@@ -2,7 +2,7 @@
 
 ##### Table of Contents  
 [twarc](#twarc)  
-[v2](#v2)   
+[Twitter API v2](#v2)   
 [not mapping twitter](#nomaps)
 
 
@@ -17,7 +17,7 @@ This page is an index (parent repo) for all of our current projects concerning T
 
 <a name="v2"/>    
  
-## [v2](v2.md)
+## [Twitter API v2](v2.md)
 - Summary of the launch of Twitters new v2 API and its benefits
 
 
