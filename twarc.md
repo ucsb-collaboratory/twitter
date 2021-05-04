@@ -3,6 +3,8 @@ date: 2021-04-27
 output: html
 ---
 
+[Back to Home Page](index.md)   
+
 # Twarc
 
 Twarc is a Python command line tool that comes along with 47 small python utilities for harvesting and working with data from the Twitter public API. Tweets are collected as JSON objects and stores as line-oriented JSON. 
