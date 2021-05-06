@@ -17,11 +17,13 @@ A narrative guide outlining how to start a search and a filter and combine the r
 *JJ did a BLM non-event last May that might be a good example. We can do it in memory of Daunte Wright. Or we can choose something that will inevitably happen in the next couple of weeks.*
 
 ## Before You Start
-*download and install twarc. twarc configure*
+
+Before starting this guide, make sure you have [twarc](https://github.com/DocNow/twarc) installed and setup. 
 
 ## Step 1
-*open two different command lines*
-*run filter on one and search on the other for blm*
+
+Next you're going to want to run _twarc filter_ and _twarc search_. There are a couple of ways this can be done, but the most preferable is to run two command line windows.
+
 
 ## Step 2
 *could dehydrate and conbine ids*
