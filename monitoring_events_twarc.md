@@ -85,6 +85,6 @@ Now that we have our merged dataset, we can rehydrate
 and run _deduplicate.py_ to remove any overlap from the two datasets. 
 
 
-[Back To Top](#monioring-events-using-twarc's-filter-and-search)
+[Back To Top](#before-you-start)
     
     python utils/deduplicate.py desantis_fs.jsonl > desantis.jsonl
