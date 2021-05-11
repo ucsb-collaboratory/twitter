@@ -24,6 +24,9 @@ Before starting this guide, make sure you have [twarc](https://github.com/DocNow
 
 Next you're going to want to run _twarc filter_ and _twarc search_. There are a couple of ways this can be done, but the most preferable is to run two command line windows.
 
+![FILTER](/assets/desantis_filter.png)
+
+![SEARCH](/assets/desantis_search.png)
 
 ## Step 2
 *could dehydrate and conbine ids*
