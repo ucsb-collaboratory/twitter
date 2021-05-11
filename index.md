@@ -3,6 +3,7 @@
 ##### Table of Contents  
 [twarc](#twarc)  
 [Twitter API v2](#v2)   
+[Monitoring Events with twarc](#monitoring)
 [not mapping twitter](#nomaps)
 
 
@@ -19,6 +20,12 @@ This page is an index (parent repo) for all of our current projects concerning T
  
 ## [Twitter API v2](v2.md)
 - Summary of the launch of Twitters new v2 API and its benefits
+- 
+
+<a name="monitoring"/>    
+ 
+## [Monitoring Events with twarc](monitoring_events_twarc.md)
+- A narrative on monitoring events with twarc. 
 
 
 <a name="nomaps"/>   
