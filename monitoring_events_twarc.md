@@ -5,7 +5,7 @@ output: html
 
 [Back to Home Page](index.md)  
 
-# Monioring Events Using Twarc's Filter and Search 
+# Monioring Events Using twarc Filter and Search 
 
 This is a narrative guide outlining how to start a search and a filter and combine the results once the event is over. We're going to running this on a recent news event above a [Florida Senator](https://www.nbcnews.com/politics/elections/gop-gov-desantis-signs-restrictive-new-voting-florida-dems-fear-n1266415), but any topic will work. 
  
@@ -85,6 +85,6 @@ Now that we have our merged dataset, we can rehydrate
 and run _deduplicate.py_ to remove any overlap from the two datasets. 
 
 
-[Back To Top](#before-you-start)
+[Back To Top](#monioring-events-using-twarc-filter-and-search)
     
     python utils/deduplicate.py desantis_fs.jsonl > desantis.jsonl
