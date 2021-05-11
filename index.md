@@ -20,7 +20,7 @@ This page is an index (parent repo) for all of our current projects concerning T
  
 ## [Twitter API v2](v2.md)
 - Summary of the launch of Twitters new v2 API and its benefits
-- 
+ 
 
 <a name="monitoring"/>    
  
