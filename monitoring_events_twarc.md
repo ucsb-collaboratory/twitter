@@ -88,4 +88,12 @@ and run _deduplicate.py_ to remove any overlap from the two datasets.
     python utils/deduplicate.py desantis_fs.jsonl > desantis.jsonl
     
     
+All of the usage is displayed in the command line here:
+
+
+![DESANTIS1](/assets/desantis1.png)
+
+![DESANTIS2](/assets/desantis2.png)
+    
+    
 [Back To Top](#monioring-events-using-twarc-filter-and-search)
