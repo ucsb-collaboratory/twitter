@@ -18,27 +18,27 @@ This is a narrative guide outlining how to start a search and a filter and combi
 Before starting this guide, make sure you have [twarc](https://github.com/DocNow/twarc) installed and setup. 
 
 
-Next you're going to want to run _twarc filter_ and _twarc search_. There are a couple of ways this can be done, but the most preferable is to run two command line windows.
+Next you're going to want to run _twarc filter_ which collects tweets from the Twitter stream matching the filter criteria, and _twarc search_ which collects tweets made in the past seven days matching the search criteria. There are a couple of ways this can be done, but the most preferable is to run two command line windows.
 
+   
     twarc filter desantis > desantis_filter.jsonl
-
-![FILTER](/assets/desantis_filter.png)
 
     twarc search desantis > desantis_search.jsonl
 
-![SEARCH](/assets/desantis_search.png)
 
-
-The filter command will finish before the search which will keep running until manually stopped. Once we are finished running the search, we can work on combining the two JSONLs. 
+The search command will finish before the filter which will keep running until manually stopped. Once we are finished running the search, we can work on combining the two JSONLs. 
 
 We will start by dehydrating the two collected datasets, then we will use the python program _ _ [here]() to combine them.
 
-    twarc dehydrate desantis_filter.jsonl   
+
+    twarc dehydrate desantis_filter.jsonl > desantis_filter.txt 
        
-    twarc dehydrate desantis_search.jsonl  
+    twarc dehydrate desantis_search.jsonl  > desantis_search.txt
+
 
 Now that we have one dataset, we can rehydrate and run _deduplicate.py_ to remove any overlap from the two datasets. 
 
-    twarc hydrate desantis_fs.jsonl
+
+    twarc hydrate desantis_fs.txt > desantis_fs.jsonl
     
     python utils/deduplicate.py desantis_fs.jsonl > desantis.jsonl
