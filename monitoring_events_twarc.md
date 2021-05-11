@@ -28,17 +28,30 @@ Next you're going to want to run _twarc filter_ which collects tweets from the T
 
 The search command will finish before the filter which will keep running until manually stopped. Once we are finished running the search, we can work on combining the two JSONLs. 
 
-We will start by dehydrating the two collected datasets, then we will use the python program _ _ [here]() to combine them.
+We will start by dehydrating the two collected datasets.
 
 
     twarc dehydrate desantis_filter.jsonl > desantis_filter.txt 
        
     twarc dehydrate desantis_search.jsonl  > desantis_search.txt
+    
+   
+Now that the datasets have been dehydrated, we can use the python program _combine.py_ [here](https://github.com/ucsb-collaboratory/twitter/blob/main/combine.py) to combine them.
+    
+    
+    python utils/combine.py 
+    
+And enter the input requests as follows:
+   
+    Enter the name of your filter txt: desantis_filter.txt
+    Enter the name of your search txt: desantis_search.txt
+    Enter the name of your output txt: desantis_fs.txt    
 
-
-Now that we have one dataset, we can rehydrate and run _deduplicate.py_ to remove any overlap from the two datasets. 
+Now that we have our merged dataset, we can rehydrate
 
 
     twarc hydrate desantis_fs.txt > desantis_fs.jsonl
+    
+and run _deduplicate.py_ to remove any overlap from the two datasets. 
     
     python utils/deduplicate.py desantis_fs.jsonl > desantis.jsonl
