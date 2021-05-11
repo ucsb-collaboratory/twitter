@@ -17,6 +17,7 @@ This is a narrative guide outlining how to start a search and a filter and combi
 [Combine](#combine)   
 [Rehydrate](#rehydrate)
 [Deduplicate](#deduplicate)   
+[Analysis](#analysis)   
 
 
 <a name="before.py"/>   
@@ -68,12 +69,12 @@ And enter the input requests as follows:
     Enter the name of your search txt: desantis_search.txt
     Enter the name of your output txt: desantis_fs.txt    
 
-Now that we have our merged dataset, we can rehydrate
-
 
 <a name="rehydrate"/>      
 
 ## Rehydrate
+
+Now that we have our merged dataset, we can rehydrate the dataset. 
 
     twarc hydrate desantis_fs.txt > desantis_fs.jsonl
 
@@ -82,7 +83,7 @@ Now that we have our merged dataset, we can rehydrate
     
 ## Deduplicate
     
-and run _deduplicate.py_ to remove any overlap from the two datasets. 
+Then, we can run _deduplicate.py_ to remove any overlap from the merging of the two datasets. 
 
     
     python utils/deduplicate.py desantis_fs.jsonl > desantis.jsonl
@@ -94,6 +95,13 @@ All of the usage is displayed in the command line here:
 ![DESANTIS1](/assets/desantis1.png)
 
 ![DESANTIS2](/assets/desantis2.png)
-    
+
+
+<a name="analysis.py"/>   
+
+## Analysis
+
+Now that we have our merged dataset without duplicate ID's, we can perform analysis using the python utilities provided with twarc. See the [twarc](https://ucsb-collaboratory.github.io/twitter/twarc.html) page for more information and links the the repository. 
+
     
 [Back To Top](#monioring-events-using-twarc-filter-and-search)
