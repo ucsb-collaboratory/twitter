@@ -104,7 +104,5 @@ All of the usage is displayed in the command line here:
 Now that we have our merged dataset without duplicate ID's, we can perform analysis using the python utilities provided with twarc. See the [twarc](https://ucsb-collaboratory.github.io/twitter/twarc.html) page for more information and links the the repository.    
  
 You can download the DeSantis files from the [twitter](https://github.com/ucsb-collaboratory/twitter) repo.    
-
-[d](desantis.txt)
     
 [Back To Top](#monioring-events-using-twarc-filter-and-search)
