@@ -7,7 +7,7 @@ output: html
 
 # Monitoring Events Using twarc Filter and Search 
 
-This is a narrative guide outlining how to start a search and a filter and combine the results once the event is over. We're going to running this on a recent news event above a [Florida Senator](https://www.nbcnews.com/politics/elections/gop-gov-desantis-signs-restrictive-new-voting-florida-dems-fear-n1266415), but any topic will work. 
+This is a narrative guide outlining how to start a search and a filter and combine the results once the event is over. We're going to running this on a recent news event about the [Governor of Florida](https://www.nbcnews.com/politics/elections/gop-gov-desantis-signs-restrictive-new-voting-florida-dems-fear-n1266415), but any topic will work. 
  
 
 #### Table of Contents
