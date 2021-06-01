@@ -1,4 +1,7 @@
-## Twitter
+---
+layout: post
+title: Twitter
+---
 
 ##### Table of Contents  
 [twarc](#twarc)  
