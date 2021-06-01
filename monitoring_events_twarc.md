@@ -15,7 +15,7 @@ This is a narrative guide outlining how to start a search and a filter and combi
 [Filter and Search](#filtersearch)  
 [Dehydrate](#dehydrate)   
 [Combine](#combine)   
-[Rehydrate](#rehydrate)
+[Rehydrate](#rehydrate)   
 [Deduplicate](#deduplicate)   
 [Analysis](#analysis)   
 
