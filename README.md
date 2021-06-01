@@ -1,3 +1,8 @@
+---
+layout: post
+title: Twitter
+---
+
 # twitter: A website to document our knowledge about performing research with Twitter data.   
 
 ##### Table of Contents  
