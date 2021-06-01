@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Monitoring Events with Twarc
 ---
 
