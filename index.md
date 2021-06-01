@@ -1,4 +1,9 @@
-  ##### Table of Contents  
+---
+layout: page
+title: Twitter
+---
+
+##### Table of Contents  
 [Monitoring Events with twarc](#monitoring)  
 [not mapping twitter](#nomaps)   
 [twarc](#twarc)  
