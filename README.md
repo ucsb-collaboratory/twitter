@@ -3,7 +3,7 @@
 ##### Table of Contents  
 [twarc](#twarc)  
 [Twitter API v2](#v2)   
-[Monitoring Events with twarc](#monitoring)
+[Monitoring Events with twarc](#monitoring)   
 [not mapping twitter](#nomaps)
 
 
