@@ -1,6 +1,6 @@
 ---
-date: 2021-05-05
-output: html
+layout: post
+title: Monitoring Events with Twarc
 ---
 
 [Back to Home Page](index.md)  
