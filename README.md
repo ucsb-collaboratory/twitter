@@ -1,8 +1,6 @@
 # twitter
 A website to document our knowledge about performing research with Twitter data.  
 
-# Twitter
-
 ##### Table of Contents  
 [twarc](#twarc)  
 [Twitter API v2](#v2)   
