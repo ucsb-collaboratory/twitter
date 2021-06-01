@@ -1,7 +1,4 @@
-
-# twitter: A website to document our knowledge about performing research with Twitter data.   
-
-##### Table of Contents  
+  ##### Table of Contents  
 [Monitoring Events with twarc](#monitoring)  
 [not mapping twitter](#nomaps)   
 [twarc](#twarc)  
