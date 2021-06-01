@@ -1,5 +1,4 @@
-# twitter
-A website to document our knowledge about performing research with Twitter data.  
+# twitter: A website to document our knowledge about performing research with Twitter data.  
 
 ##### Table of Contents  
 [twarc](#twarc)  
