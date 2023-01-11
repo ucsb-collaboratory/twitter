@@ -3,10 +3,9 @@ layout: page
 title: Twitter
 ---
 
-##### Table of Contents  
-[Monitoring Events with twarc](#monitoring)  
+##### Table of Contents    
 [not mapping twitter](#nomaps)   
-[twarc](#twarc)  
+[twarc and twarc use guide](#twarc)  
 [Twitter API v2](#v2)   
 [Ncapture](https://chrome.google.com/webstore/detail/ncapture/lgomjifbpjfhpodjhihemafahhmegbek)
 <br>
@@ -15,10 +14,6 @@ Other Pre-existing Datasets
  
 This page is an index (parent repo) for all of our current projects concerning Twitter and relevant information. Click on the headers to be take to a short summary about the corresponding topic. Or, if you'd like to be taken straight to a project's repo, click the repo link under the header. 
 
-<a name="monitoring"/>    
-
-## [Monitoring Events with twarc](monitoring_events_twarc.md)
-- A narrative on monitoring events with twarc. 
 
 <a name="nomaps"/>   
 
@@ -31,7 +26,9 @@ This page is an index (parent repo) for all of our current projects concerning T
 ## [twarc](twarc.md)   
 - Currently only covers v1.1 and twarc (ie not v2 and twarc2)
 - twarc [repo](https://github.com/ucsb-dreamlab/twarc)
-
+  <a name="monitoring"/>    
+- [twarc guide](monitoring_events_twarc.md)
+- A narrative on monitoring events with twarc. 
 
 <a name="v2"/>    
 
