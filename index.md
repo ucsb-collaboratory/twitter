@@ -8,6 +8,9 @@ title: Twitter
 [not mapping twitter](#nomaps)   
 [twarc](#twarc)  
 [Twitter API v2](#v2)   
+[Ncapture](https://chrome.google.com/webstore/detail/ncapture/lgomjifbpjfhpodjhihemafahhmegbek)
+Other Pre-existing Datasets
+
  
 This page is an index (parent repo) for all of our current projects concerning Twitter and relevant information. Click on the headers to be take to a short summary about the corresponding topic. Or, if you'd like to be taken straight to a project's repo, click the repo link under the header. 
 
@@ -34,3 +37,17 @@ This page is an index (parent repo) for all of our current projects concerning T
 ## [Twitter API v2](v2.md)
 - Summary of the launch of Twitters new v2 API and its benefits.
 
+##[Ncapture](https://chrome.google.com/webstore/detail/ncapture/lgomjifbpjfhpodjhihemafahhmegbek)
+- A chrome browser plugin that will capture tweets in a format usable in Nvivo qualitative data analysis software. 
+
+
+##[Document the Now](https://catalog.docnow.io/)
+- A catalog of more than 100 datasets totalling more than 4 billion tweet IDs 
+
+##Internet Archive 
+- [Nipsey Hussle Death Tweet Archive](https://archive.org/details/nipsey-hustle-tweets)
+- [Obama White House Twitter Archives](https://archive.org/details/ObamaWhiteHouseTwitterArchive)
+- [University of North Carolina Confederate Monument Protests 2017 - 2019](https://dcr.lib.unc.edu/record/3551adaa-5b88-4460-8e0d-e661a204442a)
+
+#[#Harvard CGA Geotweet Archive v2.0](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/3NCMB6)
+-Extending back to 2010, and updated daily, the Harvard Center for Geographic Analysis (CGA) contains more than 10 billion tweets. Extractions require reimbursement from CGA
