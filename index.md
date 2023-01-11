@@ -60,5 +60,5 @@ This page is an index (parent repo) for all of our current projects concerning T
 - Access to business data, including location, photos, Yelp ratings, price levels, hours of operation, and types of transactions. 
 - Also includes Review API, which returns up to 3 review excerpts for a business 
 
-##[Stanford Large Network Dataset Collection (SNAP)](http://snap.stanford.edu/data/index.html)
+## [Stanford Large Network Dataset Collection (SNAP)](http://snap.stanford.edu/data/index.html)
 - The SNAP library collects data on large social and information networks since 2004 
