@@ -5,7 +5,7 @@ title: Twitter
 
 ##### Table of Contents  
 TikTok
-* [TikTok API Introduction](#TikTok API)
+* [TikTok API Introduction](tiktokapi)
 Twitter
 * [Monitoring Events with twarc](#monitoring)  
 * [not mapping twitter](#nomaps)   
