@@ -22,8 +22,8 @@ This page is an index (parent repo) for all of our current projects concerning T
 <a name="monitoring"/>    
 
 ## [Monitoring Events with twarc](monitoring_events_twarc.md)
-- <FIX ME>
-- <FIX ME>
+- With the closure of the public twitter API on 2/15/23, we are unsure about the future service of twarc. 
+- While we will keep this guide up, it is difficult to foresee its use
 
 <a name="nomaps"/>   
 
