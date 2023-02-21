@@ -6,6 +6,7 @@ title: Twitter
 ##### Table of Contents  
 TikTok
 * [TikTok API Introduction](tiktokapi)
+
 Twitter
 * [Monitoring Events with twarc](#monitoring)  
 * [not mapping twitter](#nomaps)   
@@ -21,7 +22,8 @@ This page is an index (parent repo) for all of our current projects concerning T
 <a name="monitoring"/>    
 
 ## [Monitoring Events with twarc](monitoring_events_twarc.md)
-- A narrative on monitoring events with twarc. 
+- <FIX ME>
+- <FIX ME>
 
 <a name="nomaps"/>   
 
