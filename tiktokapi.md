@@ -41,8 +41,8 @@ We are currently stuck trying to figure out a URL for our app.
 ### Ask the Office of Research Red Zone: I think this rule is iffy with the UC Patent Acknowledgement
 - You agree TikTok and its affiliates will have a worldwide, free, nonexclusive, perpetual or for the maximum term allowed by 
   local law, sublicenseable, unlimited license to use the Qualified Research Partner name and logos, other identiying information, 
-  and to use, modify, reproduce, distribute, transmite, display, and create derivative works from your Research in whole or 
+  and to use, modify, reproduce, distribute, transmit, display, and create derivative works from your Research in whole or 
   in part of any legitimate business purpose without notice. 
-- Some examples include; internal review, sharing, and analysis, and for marketing and promoting TikTok Research API and related services.
+- Some examples include: internal review, sharing, and analysis, and for marketing and promoting TikTok Research API and related services.
 
 
