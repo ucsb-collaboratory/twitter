@@ -14,3 +14,27 @@ TikTok will steer you towards setting up an App. Add the Login Kit and TikTok
 API to your App.
 
 We are currently stuck trying to figure out a URL for our app.
+
+
+#### What data is available? 
+
+- Public account data, such as user profiles, comments, and performance data including: comments, likes, and favorites
+- Public content data, such as comments, captions, subtitles, and performance including: number of comments, shares, likes,
+  and favorites.
+
+
+#### Some important TikTok API Guidelines
+
+- The TikTok Research API Data must be regularly refreshed at least every fifteen/(15) days.
+- Data that is not availabel from the TikTok Research API at the time of each refresh must be deleted.
+- Data must not be kept for longer than necessary for Research approved as part of your application.
+- You agree to provide TikTok with written certification of data deletion upon TikTok's request.
+
+#### What can you publish in your research?
+
+- You may create derivative research outputs that are not speicifcally and directly made available through the service.
+- You may not publish your research outputs if they violate the Research API terms. 
+- You and your partners must provide attribution to TikTok in your research output/publications that use data derived 
+  from the user of services. 
+- You agree to provide TikTok with a copy at least thirty/(30) days before its publication for courtesy. 
+
