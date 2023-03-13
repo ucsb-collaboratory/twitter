@@ -39,10 +39,10 @@ We are currently stuck trying to figure out a URL for our app.
 - You agree to provide TikTok with a copy at least thirty/(30) days before its publication for courtesy. 
 
 ### Ask the Office of Research Red Zone: I think this rule is iffy with the UC Patent Acknowledgement
-- You agree TikTok and its affiliates will have a worldwide, free, nonexclusive, perpetual or for the maximum term allowed by 
+- "You agree TikTok and its affiliates will have a worldwide, free, nonexclusive, perpetual or for the maximum term allowed by 
   local law, sublicenseable, unlimited license to use the Qualified Research Partner name and logos, other identiying information, 
   and to use, modify, reproduce, distribute, transmit, display, and create derivative works from your Research in whole or 
-  in part of any legitimate business purpose without notice. 
+  in part of any legitimate business purpose without notice." - [TikTok Research API Terms of Service](https://www.tiktok.com/legal/page/global/terms-of-service-research-api/en) 
 - Some examples include: internal review, sharing, and analysis, and for marketing and promoting TikTok Research API and related services.
 
 
